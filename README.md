@@ -1,5 +1,5 @@
 # Base Rate Neglect Clustering Analysis
-This repository explores the potential of altering information presentation to mitigate the base rate neglect bias. Utilizing Machine Learning (ML) clustering models, the study indicates a significant reduction in this bias, by over 40%.
+This repository explores the potential of altering information presentation to mitigate base rate neglect bias. The study indicates a significant reduction in base rate bias (>40%) when information presentation is altered. This git repositiory utilizes machine learning clustering models to better understand what happens to how people are impacted by base rate bias at an individual level.
 
 ## Introduction and Background
 Base rate neglect is a cognitive fallacy where individuals tend to overshadow general prevalence (base rate) in favor of specific case information. This fallacy often manifests in domains like medicine and law. More about this can be found in at https://en.wikipedia.org/wiki/Base_rate_fallacy.
